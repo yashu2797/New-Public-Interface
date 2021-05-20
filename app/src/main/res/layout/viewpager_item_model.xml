@@ -1,1 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="15sp"
+    android:layout_margin="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_margin="3dp"
+        app:cardCornerRadius="15sp"
+        android:layout_height="match_parent">
+        <com.google.android.youtube.player.YouTubeThumbnailView
+            android:layout_width="match_parent"
+            android:id="@+id/viewPagerThumbnailChange"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop" />
+    </androidx.cardview.widget.CardView>
+
+</androidx.cardview.widget.CardView>

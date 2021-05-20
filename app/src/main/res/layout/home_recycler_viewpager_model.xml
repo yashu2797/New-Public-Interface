@@ -7,10 +7,12 @@
        android:layout_width="match_parent"
        android:text="Title"
        android:padding="10dp"
+       android:id="@+id/viewPageTextChange"
        android:textSize="20sp"
        android:layout_height="wrap_content"/>
     <androidx.viewpager2.widget.ViewPager2
         android:layout_width="match_parent"
+        android:orientation="horizontal"
         android:id="@+id/mainViewPager"
-        android:layout_height="230dp"/>
+        android:layout_height="220dp"/>
 </LinearLayout>
