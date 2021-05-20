@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237893126808",
+    "project_id": "rangolis-55c9f",
+    "storage_bucket": "rangolis-55c9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237893126808:android:7b11450fa6baa6cc209eed",
+        "android_client_info": {
+          "package_name": "com.hkgroups.rangolis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237893126808-il3pe1298gln7ch6akdos8367ad59p44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBVemVqJIIF3Yf2ISCKvdtKmj-r5WiD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237893126808-il3pe1298gln7ch6akdos8367ad59p44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

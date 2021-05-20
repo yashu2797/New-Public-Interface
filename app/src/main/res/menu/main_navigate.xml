@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home_icon_id"
+        android:icon="@drawable/home_icon"
+        android:enabled="true"
+
+        android:title="Home" />
+    <item
+        android:id="@+id/video_icon_id"
+        android:icon="@drawable/videoplay_icon"
+        android:title="Videos"
+         />
+    <item
+        android:id="@+id/shorts_icon_id"
+        android:icon="@drawable/shorts_icon"
+        android:title="Reels"
+        />
+    <item
+        android:id="@+id/images_icon_id"
+        android:icon="@drawable/photos_icon"
+        android:title="Images"
+        />
+</menu>
