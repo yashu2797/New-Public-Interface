@@ -6,6 +6,7 @@
    <TextView
        android:layout_width="match_parent"
        android:text="Title"
+       android:textColor="@color/white"
        android:padding="10dp"
        android:id="@+id/viewPageTextChange"
        android:textSize="20sp"
